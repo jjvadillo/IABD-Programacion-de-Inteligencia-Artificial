@@ -1,3 +1,12 @@
+#Problema 2. Frecuencia de palabras en un texto.
+#Escribe un programa que pida al usuario ingresar una frase o párrafo. Luego, el
+#programa debe contar cuántas veces aparece cada palabra en el texto y mostrar
+#las palabras junto con su frecuencia.
+#Requisitos:
+#1. Eliminar los signos de puntuación y conver&r todas las palabras a minúsculas para evitar diferencias.
+#2. Usar un diccionario donde la clave sea la palabra y el valor sea su frecuencia.
+#3. Mostrar las palabras y sus frecuencias de forma ordenada por la palabra.
+
 #"ESTE es el texto que quiero METER y que, además, estoy probando. Este texto es para el ejercicio que tengo que hacer"
 parrafo = input("Introduce un parrafo: ")
 print(parrafo)
